@@ -416,6 +416,7 @@ Community Repos:
 * [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
 * [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
 
+
 ### CloudFormation
 
 AWS Repos:
@@ -1428,6 +1429,10 @@ Community Conferences:
 * [CodePipeline](https://aws.amazon.com/documentation/codepipeline/) - Continuous delivery service.
 * [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
 * [X-Ray](https://aws.amazon.com/xray/) - Analyze and debug your applications.
+
+Community Repos:
+
+* [Noovolari/leapp](https://github.com/Noovolari/leapp) - A Desktop App to manage and secure AWS programmatic access to CLI, SDK, and to EC2 instances through SSM.
 
 ### Miscellaneous Services
 
